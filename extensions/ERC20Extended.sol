@@ -5,7 +5,7 @@ import "./Lockable.sol";
 import "./Pausable.sol";
 
 /**
- * @title ERC20Extended for FIVE TOKEN
+ * @title ERC20Extended for UNICUS COIN
  * @dev ERC20 modified with needed transfers. 1. pausable 2. lockable
  */
 contract ERC20Extended is ERC20, Pausable, Lockable {

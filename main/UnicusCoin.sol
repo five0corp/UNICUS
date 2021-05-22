@@ -4,9 +4,9 @@ import "../extensions/ERC20Extended.sol";
 
 
 /**
- * @title FiveToken
+ * @title UnicusCoin
  */
-contract FiveToken is ERC20Extended {
+contract UnicusCoin is ERC20Extended {
 
     string public constant name = "UNICUS COIN";
     string public constant symbol = "UNIC";
